@@ -1,0 +1,7 @@
+name = "bug_ai_engine"
+main = "src/index.js"
+compatibility_date = "2023-08-21"
+
+[[kv_namespaces]]
+binding = "bug_ai_engine"
+id = "6129219f95f0437da6a5389d1fdbbc5a"
